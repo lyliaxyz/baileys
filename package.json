@@ -1,5 +1,5 @@
 {
-  "name": "naruyaizumi",
+  "name": "shintzy",
   "version": "26.0.2",
   "description": "baileys whatsapp-api",
   "keywords": [
@@ -7,12 +7,12 @@
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/naruyaizumi/baileys",
+  "homepage": "https://github.com/lyliaxyz/baileys",
   "repository": {
-    "url": "https://github.com/naruyaizumi/baileys"
+    "url": "https://github.com/lyliaxyz/baileys"
   },
   "license": "MIT",
-  "author": "Naruya Izumi",
+  "author": "shintzy",
   "main": "lib/index.js",
   "files": [
     "lib/*",
@@ -51,6 +51,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/naruyaizumi/baileys/issues"
+    "url": "https://github.com/lyliaxyz/baileys/issues"
   }
 }
